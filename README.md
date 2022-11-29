@@ -1,2 +1,2 @@
-# 456363-DaffaMuhammadRomero-ResponsiJuniorProject
-Responsi 2 Praktikum Proyek Junior Teknologi Informasi DTETI FT UGM
+# Responsi Junior Project
+Repository ini dibuat untuk memenuhi Responsi 2 Praktikum Proyek Junior Teknologi Informasi di DTETI FT UGM.
